@@ -1,6 +1,9 @@
 # Java Card Game
 A GUI card game implemented in Java. My assignment in UCCD2044 Object-Oriented Programming Practics.
 
+# Game Rules
+The game rules are specified in [requirement.pdf](requirement.pdf).
+
 # Prerequisite
 Java, javac, JavaFX
 
